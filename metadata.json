@@ -1,0 +1,6 @@
+{
+  "name": "Airbnb Vacation Rentals",
+  "description": "Full-stack Airbnb vacation rental application featuring multi-criteria property search, date collision-free bookings, dynamic pricing, and host listings management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
